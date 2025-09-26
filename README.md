@@ -1,6 +1,8 @@
 Web design for bold brands that want to go beyond — rebuilt in React 18 with Vite and React Router.
 Pages: Home, About, Services, Contact.
 
+live demo: " https://brianjacksons2811.github.io/Jacksonsweblab.co.za/"
+
 ✨ Features
 
 ⚡ Fast dev experience with Vite
